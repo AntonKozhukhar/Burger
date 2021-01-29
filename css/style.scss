@@ -8,7 +8,7 @@ body {
 }
 
 .button {
-    background: #f6762c;
+    background:green;
     border-radius: 5px;
     font-weight: 500;
     font-size: 16px;
@@ -92,7 +92,7 @@ body {
         &:last-child {
             margin-bottom: 0;
         }
-        &:hover a{
+        &:hover a {
             font-weight: bold;
             color: #fafafa;
             opacity: 1;
@@ -103,7 +103,6 @@ body {
         line-height: 16px;
         color: #fafafa;
         opacity: 0.7;
-        
     }
     &__dropdown {
         display: none;
@@ -415,7 +414,6 @@ body {
                 top: 30px;
                 left: -28px;
             }
-           
         }
         &__dropdown {
             display: none;
